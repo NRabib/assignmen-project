@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+/* header section style */
+header{
+    background: url(../images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bannar{
+    padding: 180px 150px 180px 0px;
+    text-align: right;
+}
+.bannar-title{
+    
+}
+.bannar-title h2{
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+    text-align: right;
+}
+.bannar-title p{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    color: #444343;
+    margin-top: 40px;
+}
+.btn-primary{
+    background: #F15B22;
+	border-radius: 6px;
+	padding: 20px;
+	color: #fefefe;
+	font-size: 20px;
+	font-weight: 800;
+	border: 0;
+    margin-top: 45px;
+}
+/* person section style */
+.person{
+    display: flex;
+    margin-top: 130px;
+    width: 1072px;
+    height: 723.3px;
+    margin-left: 250px;
+}
+.person-banner{
+    display: flex;
+    width: 569px;
+    height: 723.3px;
+}
+.person-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 25px;
+}
+.person-list{
+    margin-left: 170px;
+    margin-top: 220px;
+}
+.persion-discription{
+    margin-bottom: 20px;
+}
+.person-list p{
+    
+}
+.icon{
+    margin-top: 15px;
+}
