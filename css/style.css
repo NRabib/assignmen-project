@@ -105,7 +105,7 @@ header{
 }
 /* plan section end here */
 
-/* advise section style start here */
+/* gradiyant  section style start here */
 .graidant{
     margin-top: 130px;
     background: url(../images/gradient2.png),url(../images/watch.png);
@@ -120,7 +120,6 @@ header{
       font-weight: 700;
       font-size: 40px;
       color: #fefefe;
-      /* margin-bottom: -30px; */
 }
 .second-Button{
     background: #fefefe;
@@ -133,7 +132,7 @@ header{
     margin-left: 340px;
     margin-bottom: 50px;
 }
-    /* advise section end here */
+    /* gradiant section end here */
 
 /* contact section style start here */
 .contact{
@@ -175,14 +174,14 @@ header{
     margin-left:10px;
 }
 .third-button{
-    border: none;
-    border-radius: 10px;
-    padding: 10px 15px;
-    background-color: #fff;
-    color: #F15B22;
-    font-size: 15px;
+    background: #fefefe;
+	border-radius: 6px;
+	padding: 20px;
+	color: #F15B22;
+	font-size: 20px;
 	font-weight: 800;
-    margin-top: 10px;
+	border: 0;
+    margin-top: 45px;
 }
 .section-container{
     margin-right: 250px;
