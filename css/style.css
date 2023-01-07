@@ -3,7 +3,7 @@
     padding: 0;
     font-family: 'Work Sans', sans-serif;
 }
-/* header section style */
+/* header section style start here */
 header{
     background: url(../images/banner/banner2.png);
     background-repeat: no-repeat;
@@ -13,9 +13,6 @@ header{
 .bannar{
     padding: 180px 150px 180px 0px;
     text-align: right;
-}
-.bannar-title{
-    
 }
 .bannar-title h2{
     font-weight: 700;
@@ -40,7 +37,9 @@ header{
 	border: 0;
     margin-top: 45px;
 }
-/* person section style */
+/* header section style End here */
+
+/* person section style start here */
 .person{
     display: flex;
     margin-top: 130px;
@@ -72,3 +71,117 @@ header{
 .icon{
     margin-top: 15px;
 }
+/* person section style End here */
+/* plan section style start here */
+    
+.plan-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    text-align: center;
+    margin-top: 130px;
+}
+.plan-container{
+    align-items: center;
+
+}
+.plan-gallary{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 55px;
+    text-align: center;
+}
+.plan-container h4{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+.plan-container h5{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+/* plan section end here */
+
+/* advise section style start here */
+.advise{
+    margin-top: 130px;
+    
+}
+.advise-banner{
+background: url(../images/watch.png);
+background-repeat: no-repeat;
+}
+.advise-title{
+    padding: 50px 50px 100px 150px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 40px;
+    color: #fefefe;
+    margin-bottom: -30px;
+}
+.second-Button{
+    background: #fefefe;
+	border-radius: 6px;
+	padding: 20px;
+	color: #F15B22;
+	font-size: 20px;
+	font-weight: 800;
+	border: 0;
+    margin-top: 5px;
+    margin-left: 150px;
+}
+.section-container{
+    margin-right: 250px;
+    /* advise section end here */
+}
+/* contact section style start here */
+.contact{
+    display: flex;
+    background: #151414;
+    padding: 130px 200px;
+    margin-top: 150px;
+}
+.section-title{
+    font-weight: 700;
+    font-size: 35px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.contact-discription{
+    font-weight: 400;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+}
+.info{
+    font-weight: 400;
+    font-size: 16px;
+    color: #fefefe;
+    margin-bottom: 30px;
+}
+.contact input {
+    margin-bottom: 24px;
+    border: none;
+     width: 50%;
+    padding: 18px 30px;
+    background-color: #000;
+    border-radius: 10px;
+    border: 1px solid #fff;
+}
+.contact a{
+    text-decoration: none;
+    font-size: 40px;
+    margin-left:10px;
+}
+.third-button{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 15px;
+    background-color: #fff;
+    color: #F15B22;
+    font-size: 15px;
+	font-weight: 800;
+    margin-top: 10px;
+}
+/* contact section style End here */
